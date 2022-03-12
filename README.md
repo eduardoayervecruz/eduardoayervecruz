@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Welcome!, I'm Eduardo</h1>
-<h3 align="center">A peruvian chilling fellow</h3>
+<h1 align="left">Welcome!, I'm Eduardo</h1>
+<h3 align="left">A peruvian chilling fellow</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
