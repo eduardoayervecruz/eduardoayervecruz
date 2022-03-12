@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoayervecruz&show_icons=true&locale=en" alt="eduardoayervecruz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoayervecruz&" alt="eduardoayervecruz" /></p>
 
-<section>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoayervecruz&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoayervecruz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoayervecruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<section>
+
