@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="left">Welcome!, I'm Eduardo</h1>
 <h3 align="left">A peruvian chilling fellow</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Learning as much as possible**
 
 - 👯 I’m looking to collaborate on **Latin America's Technology Development**
@@ -43,5 +41,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoayervecruz&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoayervecruz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoayervecruz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
