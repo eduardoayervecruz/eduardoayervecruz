@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 **Welcome to my profile!**
 
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h1 align="center">Welcome!, I'm Eduardo</h1>
 <h3 align="center">A peruvian chilling fellow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoayervecruz&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoayervecruz" /> </p>
