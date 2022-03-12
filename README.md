@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Welcome!, I'm Eduardo</h1>
 <h3 align="center">A peruvian chilling fellow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoayervecruz&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoayervecruz" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java SE, C++ ad C#**
