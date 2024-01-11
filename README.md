@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 <h1 align="left">Welcome!, I'm Eduardo</h1>
 <h3 align="left">A peruvian chilling fellow</h3>
 
-- 🔭 I’m currently working on **Learning as much as possible**
-
-- 👯 I’m looking to collaborate on **Latin America's Technology Development**
-
-- 🤔 I’m looking for help with **Anything related to Computer Science**
-
-- 🌱 I’m currently learning **Java SE, C++ and C#**
+- 🌱 I’m currently learning **Python, Pytorch, TensorFlow, Machine Learning, Deep Learning and C**
 
 - 📫 How to reach me **eduardo.ayerve@gmail.com**
 
